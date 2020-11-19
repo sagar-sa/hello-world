@@ -1,2 +1,1 @@
-# hello-world
-How to create Repository
+I'm trying to slove myself.
